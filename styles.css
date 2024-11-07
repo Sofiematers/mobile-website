@@ -136,3 +136,10 @@ article{
     margin-right: 2em;
 }
 
+.terug-knop{
+    position: fixed;
+    display: block;
+    top: 1.5em;
+    left: 1em;
+}
+
