@@ -39,7 +39,7 @@ section{
     position: relative;
     max-width: 15rem;
     margin: 0 auto;
-    bottom-margin: 3em;
+    margin-bottom: 3em;
 }
 
 .slider{
